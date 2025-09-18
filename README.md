@@ -43,7 +43,7 @@ Try the app instantly in your browser: [Laplace Visualizer Web App](https://lapl
 ### 2. Run locally  
 
 ```bash
-git clone https://github.com/Potato-22/Laplace-Visualizer
+git clone https://github.com/lucy-cook/Laplace-Visualizer
 cd laplace-visualizer
 pip install -r requirements.txt
 streamlit run laplace2.py

@@ -1,4 +1,3 @@
-# laplace updated to manually calc gradient instead of being lazy
 
 import streamlit as st  # Streamlit for interactive GUI
 import numpy as np  

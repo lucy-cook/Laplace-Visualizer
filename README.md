@@ -1,25 +1,25 @@
 # Laplace Equation Visualizer
 
-This is an interactive Streamlit web app for solving and visualizing the **2D Laplace equation** with customizable boundary conditions.  
+This is an interactive Streamlit web app for solving and visualizing the 2D Laplace equation with customizable boundary conditions.  
 
-This project is designed for physics and engineering students to explore how electrostatic potentials and fields arise, while also learning about the computational methods behind numerical solutions.  
+This project is designed for physics students to explore how electrostatic potentials and fields arise, while also learning about the computational methods behind numerical solutions.  
 
-You can either run it locally or try it via URL in your browser — no installation needed!  
+You can either run it locally or try it via URL in your browser — no installation needed :)
 
 ---
 
 ## About
 
-This project helps students develop intuition for how **electrostatic potentials and fields** emerge from solving **Laplace’s equation**.  
+This project helps students develop intuition for how electrostatic potentials and fields emerge from solving Laplace’s equation.  
 
-The app shows how boundary conditions shape the potential and field lines, making it easier to connect theory with visualization, building intuition. At the same time, it keeps a strong focus on **computational physics concepts**:  
+The app shows how boundary conditions shape the potential and field lines, making it easier to connect theory with visualization, building intuition. At the same time, it keeps a strong focus on computational physics concepts:  
 
 - Gauss–Seidel iteration with Successive Over-Relaxation (SOR)  
 - Effects of grid resolution and discretization error  
 - How tolerance choices influence convergence  
 - Connections between numerical methods and physical interpretation  
 
-In other words, the app is both a **learning tool for physics intuition** and a **gentle introduction to computational methods** commonly used in scientific computing. 
+In other words, the app is both a learning tool for physics intuition and a gentle introduction to computational methods commonly used in scientific computing. 
 
 ---
 
